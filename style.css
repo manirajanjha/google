@@ -1,0 +1,34 @@
+img{
+  width:300px;
+    margin:150px 00px 00px 400px;
+}
+ul{
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden;
+  float:right;
+}
+li{
+  float:left;
+  text-align: center;
+    padding: 10px;
+font-family:arial;
+}
+div{
+  margin:10px 0px 0px 45%;
+}
+input{
+  width:70%;
+  height:30px;
+  margin:0px 0px 0px -90px;
+  border: 2px solid grey;
+}
+#left{
+  margin:130px 0px 0px 0px;
+  float:left;
+}
+#right{
+  float:right;
+  margin:130px 0px 0px 0px;
+}
+body{
+background-color:#f4f6f9;
+}
